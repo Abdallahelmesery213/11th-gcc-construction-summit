@@ -471,9 +471,18 @@ h2 {
  display: inline;
  margin-right: 15px;
 }
-.nav-1{
+header .nav-1{
   background-color: #000;
-  padding: 10px 0;
+  color: #fff;
+  padding: 12px 0;
+  margin-bottom: 0;
+}
+header .nav-2{
+  padding: 12px 0;
+  margin-bottom: 0;
+}
+header .nav-2 li a{
+  color: #000;
 }
 .nav-1 a{
   color: #fff !important;
